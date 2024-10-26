@@ -1,0 +1,3 @@
+/mnt/c/Users/SAMSUNG/Code/TrabalhosCompiladores/Compiladores/Lab10/Ast/Debug/CMakeFiles/tradutor.dir
+/mnt/c/Users/SAMSUNG/Code/TrabalhosCompiladores/Compiladores/Lab10/Ast/Debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/SAMSUNG/Code/TrabalhosCompiladores/Compiladores/Lab10/Ast/Debug/CMakeFiles/rebuild_cache.dir
