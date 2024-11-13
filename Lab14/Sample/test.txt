@@ -1,0 +1,8 @@
+if valor > 2.6E+40 then
+    ok
+else
+    problem
+while loop
+"Hello, World!"
+escaped string with \"escaped\" characters and \\\\ backslashes
+var_with_underscore
