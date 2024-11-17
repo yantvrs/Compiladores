@@ -1,0 +1,3 @@
+/mnt/c/Users/SAMSUNG/Code/TrabalhosCompiladores/Compiladores/TrabalhoFinal/Sample/Build/CMakeFiles/sample.dir
+/mnt/c/Users/SAMSUNG/Code/TrabalhosCompiladores/Compiladores/TrabalhoFinal/Sample/Build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/SAMSUNG/Code/TrabalhosCompiladores/Compiladores/TrabalhoFinal/Sample/Build/CMakeFiles/rebuild_cache.dir
